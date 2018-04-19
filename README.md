@@ -6,3 +6,7 @@ Lina Belina - adventures of a little pirate saint, is an interactive storytellin
 
 The game narrative is based on the memoirs of Avelina Barbon written shortly before her death in 2013. Lina is a feisty, clever and imaginative young girl who fights for equality and a better life for herself during a time of oppression for women under the Franco dictatorship and the Catholic church in 1950's Spain. Lina and her two brothers have many adventures and use their ingenuity to make the most of things despite the life challenges thrown at them. 
 
+## Collaborators
+
+Mafj Alvarez
+Ellie Watts
