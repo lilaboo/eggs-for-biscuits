@@ -9,4 +9,17 @@ The game narrative is based on the memoirs of Avelina Barbon written shortly bef
 ## Collaborators
 
 Mafj Alvarez
+
 Ellie Watts
+
+Francis Alvarez
+
+Rebecca Fernandez
+
+Merlin Kingsley
+
+Anna Bertmark
+
+Paul Hayes
+
+Andy Baker
